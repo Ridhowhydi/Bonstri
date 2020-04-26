@@ -1,8 +1,8 @@
 <?php
 ///////////////////////////////////////////
-///////CREATED BY ARUDJI HERMATYAR////////
-//////www.facebook.com/bantalku567///////
-/////https://github.com/arudji1211//////
+///////Upload  BY       Daniel    ////////
+//////                            ///////
+/////https://github.com/my986x    //////
 ///////////////////////////////////////
 
 include 'tri_req.php';
